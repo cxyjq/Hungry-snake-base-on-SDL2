@@ -1,1 +1,2 @@
-*.md linguist-language=python
+*.cs linguist-language=C#
+*.ico linguist-language=C#
